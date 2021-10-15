@@ -1,0 +1,25 @@
+{
+    "facturas":[
+        {
+            "id": 1,
+            "doc": "1",
+            "name": "Enmanuel Leon",
+            "valor": 5000.25,
+            "iva": 70.41
+        },
+        {
+            "id": 2,
+            "doc": "1",
+            "name": "Enmanuel Leon",
+            "valor": 50000.25,
+            "iva": 7000.41
+        },
+        {
+            "id": 3,
+            "doc": "1",
+            "name": "Enmanuel Leon",
+            "valor": 5000,
+            "iva": 70
+        }
+    ]
+  }
