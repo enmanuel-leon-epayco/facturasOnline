@@ -3,23 +3,62 @@
         {
             "id": 1,
             "doc": "1",
+            "tipoDoc": "cc",
             "name": "Enmanuel Leon",
             "valor": 5000.25,
-            "iva": 70.41
+            "iva": 70.41,
+            "extra1": 1,
+            "extra2": 2,
+            "extra3": 3,
+            "extra4": 4,
+            "extra5": 5,
+            "extra6": 6,
+            "extra7": 7,
+            "extra8": 8,
+            "extra9": 9,
+            "extra10": 10,
+            "extra11": 11,
+            "extra12": 12
         },
         {
             "id": 2,
             "doc": "1",
+            "tipoDoc": "cc",
             "name": "Enmanuel Leon",
             "valor": 50000.25,
-            "iva": 7000.41
+            "iva": 7000.41,
+            "extra1": 1,
+            "extra2": 2,
+            "extra3": 3,
+            "extra4": 4,
+            "extra5": 5,
+            "extra6": 6,
+            "extra7": 7,
+            "extra8": 8,
+            "extra9": 9,
+            "extra10": 10,
+            "extra11": 11,
+            "extra12": 12
         },
         {
             "id": 3,
-            "doc": "1",
+            "doc": "3",
+            "tipoDoc": "cc",
             "name": "Enmanuel Leon",
             "valor": 5000,
-            "iva": 70
+            "iva": 70,
+            "extra1": 1,
+            "extra2": 2,
+            "extra3": 3,
+            "extra4": 4,
+            "extra5": 5,
+            "extra6": 6,
+            "extra7": 7,
+            "extra8": 8,
+            "extra9": 9,
+            "extra10": 10,
+            "extra11": 11,
+            "extra12": 12
         }
     ]
   }
