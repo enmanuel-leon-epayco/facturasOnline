@@ -61,4 +61,34 @@
             "extra12": 12
         }
     ]
+    ,
+    "facturas2":[
+        {
+            "id": 1,
+            "doc": "1",
+            "tipoDoc": "cc",
+            "name": "Enmanuel Leon",
+            "valor": 5000.25,
+            "iva": 70.41,
+            "extra1": 1
+        },
+        {
+            "id": 2,
+            "doc": "1",
+            "tipoDoc": "cc",
+            "name": "Enmanuel Leon",
+            "valor": 50000.25,
+            "iva": 7000.41,
+            "extra1": 2
+        },
+        {
+            "id": 3,
+            "doc": "1",
+            "tipoDoc": "cc",
+            "name": "Enmanuel Leon",
+            "valor": 5000,
+            "iva": 70,
+            "extra1": 3
+        }
+    ]
   }
