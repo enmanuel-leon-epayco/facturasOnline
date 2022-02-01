@@ -89,6 +89,15 @@
             "valor": 5000,
             "iva": 70,
             "extra1": 3
+        },
+        {
+            "id": 4,
+            "doc": "2",
+            "tipoDoc": "cc",
+            "name": "Enmanuel Leon",
+            "valor": 5000,
+            "iva": 70,
+            "extra1": 3
         }
     ]
   }
